@@ -4,18 +4,9 @@ This repository contains unpacked game files from Risk Your Life (RYL) MMORPG by
 
 ## Structure
 
-- **Eternal/**: Files for Eternal server version (scripts, DLLs, zones).
-- **GempakZ/**: Files for GempakZ server version.
-- **Unity/**: Files for Unity server version.
-
-## File Types
-
-- `.gsf`: Game scripts (items, skills, etc.).
-- `.mcf`: Config files (quests, NPCs).
-- `.z3s`: Zone/map files.
-- `.dll`: Libraries for game features.
-- `.txt`: Loader lists.
-
-## Usage
-
-Clone the repo and copy the desired folder to your RYL server directory. Load DLLs from Loader.txt and edit scripts as needed.
+- **[Eternal](https://www.ryl2eternal.com/)**: Files for Eternal server version (scripts, DLLs, zones).
+- **[GempakZ](https://ryl2gempakz.com/)**: Files for GempakZ server version.
+- **Unity/**: Files for Unity server version. (Discontinue)
+- **[Mapley](http://ryl2maplex.com/)**: Files for Unity server version.
+- **[International](http://malaya.sytes.net/)**: Files for Unity server version.
+- **[Endless WaltZ]([http://www.ryl2endless.com/))**: Files for GempakZ server version.
